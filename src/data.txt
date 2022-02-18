@@ -1,0 +1,4 @@
+{
+    "charactername": "Sleight",
+    "characterage": 28
+}
